@@ -1,4 +1,4 @@
-# CSCA5622-week7 
+# CSCA5622
 Week 7 Final supervised machine learning project submission. 
 - Notebook (.ipynb)
 - PDF Version of Notebook (.pdf)
